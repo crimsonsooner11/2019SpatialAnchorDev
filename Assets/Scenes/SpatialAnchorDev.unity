@@ -346,6 +346,11 @@ PrefabInstance:
       propertyPath: spatialAnchorsAccountKey
       value: GB3qejYXDQsV9nQ+WzG/dSINmSxKRQjxlALf4ZF+qGU=
       objectReference: {fileID: 0}
+    - target: {fileID: 2053986285137871049, guid: eee6a024b4a153e48b88665b46a6c40a,
+        type: 3}
+      propertyPath: spatialAnchorsAccountDomain
+      value: eastus.mixedreality.azure.com
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eee6a024b4a153e48b88665b46a6c40a, type: 3}
 --- !u!1 &1263146680
